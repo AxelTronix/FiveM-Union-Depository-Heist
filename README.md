@@ -4,6 +4,8 @@
 [website]: https://tronix.website
 
 Union Depository Heist for ESX Servers
+
+Idle Resmon (0.2ms)
 ```cs
 #Requirements
 - Mythic Notify
