@@ -20,9 +20,10 @@ Idle Resmon: (0.0-0.1ms)
 ```
 
 ### Installation
-1. 
-2. 
-3. 
-4. 
+1. Drop Tronix-Union and mhacking into your Resources Folder
+2. add (Start Tronix-Union) and (start mhacking) to Server.cfg
+3. Configure the Config to your Liking
+4. Add the SQL (items)
+5. Enjoy!  
 
 # Video Preview
