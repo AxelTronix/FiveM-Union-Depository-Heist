@@ -1,6 +1,6 @@
 Config = {}
 
-Config.MinCop = 0 -- Default (6)
+Config.MinCop = 6 -- Default (6)
 Config.SpawnGuards = true --Default (True)
 Config.Time = 200 -- Default (200) How long it takes for the vault to close after being open
 ------------------------------------------------------
