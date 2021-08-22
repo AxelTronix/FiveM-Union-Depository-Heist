@@ -3,7 +3,9 @@
 [banner]: https://cdn.discordapp.com/attachments/851650166473097217/879125353178730526/Union.png
 [website]: https://tronix.website
 
-Union Depository Heist for ESX Servers
+## Description
+Union Depository Heist script for ESX FiveM servers. Players can rob the Union Depository, with the help of their friends :) .
+
 
 Idle Resmon (0.0-0.1ms)
 ```cs
