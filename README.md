@@ -5,7 +5,7 @@
 
 Union Depository Heist for ESX Servers
 
-Idle Resmon (0.1ms)
+Idle Resmon (0.0-0.1ms)
 ```cs
 #Requirements
 - Mythic Notify
