@@ -7,7 +7,8 @@
 Union Depository Heist script for ESX FiveM servers. Players can rob the Union Depository, with the help of their friends :) .
 
 
-Idle Resmon (0.0-0.1ms)
+Difficulty: (Hard)
+Idle Resmon: (0.0-0.1ms)
 ```lua
   ~Requirements~
   
