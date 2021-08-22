@@ -9,7 +9,8 @@ Union Depository Heist script for ESX FiveM servers. Players can rob the Union D
 
 Idle Resmon (0.0-0.1ms)
 ```lua
-  [Requirements]
+  ~Requirements~
+  
 - Mythic Notify
 - Mhacking (Already in the files)
 - Taskbar
